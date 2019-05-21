@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:CheeBam/dummytest-backend-app.git",
+    "project_destination_path": "dummytest-backend-app",
+    "application_name": "dummytest",
+    "project_technology": "rubyonrails",
+    "database_type": "postgresql"
+  }
+}
